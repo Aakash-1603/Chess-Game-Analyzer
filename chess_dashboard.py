@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -349,7 +348,8 @@ def main():
     )
 
 if __name__ == "__main__":
-=======
+    main()
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -700,5 +700,4 @@ def main():
     )
 
 if __name__ == "__main__":
->>>>>>> bfeb29a4792aa69bfd2a1c3cf035ad4e5b49d565
     main()
